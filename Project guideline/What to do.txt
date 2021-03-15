@@ -1,0 +1,10 @@
+BUYER FUNCTIONALITY
+
+
+All interfaces (html pages) -link
+complete login system with file I/O
+form validation (No preg_match, filter)
+File upload & image display
+SESSION+ COOKIE example
+DB schema (ERD)
+Summary report

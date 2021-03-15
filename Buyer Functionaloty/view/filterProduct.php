@@ -1,0 +1,1 @@
+<h1>View in product list page</h1>
