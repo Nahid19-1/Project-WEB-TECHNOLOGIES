@@ -1,4 +1,0 @@
-[
-{"name":"Nahid","username":"Nahid","phone":"12","email":"nahidmarfy07@gmail.com","password":"12","Cpassword":"12"},
-{"name":"mom1","username":"mom1","phone":"12","email":"s@gmail.com","password":"1","Cpassword":"1"}
-]
